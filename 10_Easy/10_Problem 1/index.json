@@ -26,14 +26,6 @@
     },
     {
       "source": {
-        "jcampURL": "./10_Easy/10_Problem 1/dept.dx"
-      },
-      "display": {
-        "name": ""
-      }
-    },
-    {
-      "source": {
         "jcampURL": "./10_Easy/10_Problem 1/hmbc.dx"
       },
       "display": {
