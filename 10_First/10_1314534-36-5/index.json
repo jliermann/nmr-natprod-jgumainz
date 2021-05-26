@@ -1,0 +1,68 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./10_First/10_1314534-36-5/1314534-36-5_13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./10_First/10_1314534-36-5/1314534-36-5_15n.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./10_First/10_1314534-36-5/1314534-36-5_1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./10_First/10_1314534-36-5/1314534-36-5_cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./10_First/10_1314534-36-5/1314534-36-5_dept.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./10_First/10_1314534-36-5/1314534-36-5_hmbc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./10_First/10_1314534-36-5/1314534-36-5_hsqc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./10_First/10_1314534-36-5/1314534-36-5_noesy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
