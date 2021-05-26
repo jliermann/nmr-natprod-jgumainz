@@ -1,21 +1,34 @@
 [
   {
     "groupName": "First Series",
-    "folderName": "10_First",
+    "folderName": "10_Easy",
     "children": [
       {
-        "id": "aeyOEraTFRYGYt8cKNaWRtANpxQ=",
+        "id": "TKL/d0vrgQUjFzzLT88sSSHBaGk=",
         "mf": "C7H8O3",
         "idCodeHash": "4444139bcfd725a2cf01a7354ed5b468",
-        "file": "./10_First/10_Unknown Product/index.json",
-        "title": "Unknown Product",
+        "file": "./10_Easy/10_Problem 1/index.json",
+        "title": "Problem 1",
         "selected": true
       },
       {
-        "id": "fuqq5KhlkYAqKP7xOFzppj3BzAA=",
+        "id": "81lWrqFjFYL6zr8JGjUgO61YC6E=",
+        "mf": "C8H8O3",
+        "idCodeHash": "4c036f908fa54be9e07ba209863f07af",
+        "file": "./10_Easy/20_Problem 2/index.json",
+        "title": "Problem 2"
+      }
+    ]
+  },
+  {
+    "groupName": "Intermediate",
+    "folderName": "20_Intermediate",
+    "children": [
+      {
+        "id": "VRVjU6O7ifgSW4IF9huNVZLXz3E=",
         "mf": "C10H11NO3",
         "idCodeHash": "e01ed034152bee2d4d20acd154e0217a",
-        "file": "./10_First/20_Unknown Product/index.json",
+        "file": "./20_Intermediate/20_Unknown Product/index.json",
         "title": "Unknown Product"
       }
     ]
