@@ -17,6 +17,13 @@
         "idCodeHash": "4c036f908fa54be9e07ba209863f07af",
         "file": "./10_Easy/20_Problem 2/index.json",
         "title": "Problem 2"
+      },
+      {
+        "id": "LhiwoQEPQTJCy4COXksE0Ctd9NE=",
+        "mf": "C6H7N",
+        "idCodeHash": "6d12762db34ed554dfc70cd05689b825",
+        "file": "./10_Easy/30_Problem 3/index.json",
+        "title": "Problem 3"
       }
     ]
   },
@@ -24,6 +31,13 @@
     "groupName": "Intermediate",
     "folderName": "20_Intermediate",
     "children": [
+      {
+        "id": "DOu3ZLazV5fQYATimfT5VBEB7HQ=",
+        "mf": "C10H16O",
+        "idCodeHash": "188e4a76a638ae587d1d2d28b1231424",
+        "file": "./20_Intermediate/10_Problem 1/index.json",
+        "title": "Problem 1"
+      },
       {
         "id": "8Ug4LbYRzELHgaAX6mmemoG9NTo=",
         "mf": "C10H11NO3",
@@ -50,6 +64,13 @@
         "idCodeHash": "62c25e2d346d83b16fba07ebbd58d67c",
         "file": "./30_Advanced/20_Problem 2/index.json",
         "title": "Problem 2"
+      },
+      {
+        "id": "B4SClt1J2p1jmDVTvG+ohqfgizc=",
+        "mf": "C10H16O",
+        "idCodeHash": "578738fddc996db027af6b69bd852758",
+        "file": "./30_Advanced/30_Problem 3/index.json",
+        "title": "Problem 3"
       }
     ]
   }
