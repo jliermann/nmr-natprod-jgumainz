@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./20_Intermediate/20_Problem 2/1314534-36-5_13c.dx"
+        "jcampURL": "./20_Intermediate/20_Problem 2/13c.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./20_Intermediate/20_Problem 2/1314534-36-5_15n.dx"
+        "jcampURL": "./20_Intermediate/20_Problem 2/15n.dx"
       },
       "display": {
         "name": ""
@@ -18,7 +18,7 @@
     },
     {
       "source": {
-        "jcampURL": "./20_Intermediate/20_Problem 2/1314534-36-5_1h.dx"
+        "jcampURL": "./20_Intermediate/20_Problem 2/1h.dx"
       },
       "display": {
         "name": ""
@@ -26,7 +26,7 @@
     },
     {
       "source": {
-        "jcampURL": "./20_Intermediate/20_Problem 2/1314534-36-5_cosy.dx"
+        "jcampURL": "./20_Intermediate/20_Problem 2/cosy.dx"
       },
       "display": {
         "name": ""
@@ -34,7 +34,7 @@
     },
     {
       "source": {
-        "jcampURL": "./20_Intermediate/20_Problem 2/1314534-36-5_hmbc.dx"
+        "jcampURL": "./20_Intermediate/20_Problem 2/hmbc.dx"
       },
       "display": {
         "name": ""
@@ -42,7 +42,7 @@
     },
     {
       "source": {
-        "jcampURL": "./20_Intermediate/20_Problem 2/1314534-36-5_hsqc.dx"
+        "jcampURL": "./20_Intermediate/20_Problem 2/hsqc.dx"
       },
       "display": {
         "name": ""
@@ -50,7 +50,7 @@
     },
     {
       "source": {
-        "jcampURL": "./20_Intermediate/20_Problem 2/1314534-36-5_noesy.dx"
+        "jcampURL": "./20_Intermediate/20_Problem 2/noesy.dx"
       },
       "display": {
         "name": ""
