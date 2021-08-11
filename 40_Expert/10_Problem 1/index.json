@@ -1,0 +1,60 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./40_Expert/10_Problem 1/13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./40_Expert/10_Problem 1/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./40_Expert/10_Problem 1/cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./40_Expert/10_Problem 1/hmbc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./40_Expert/10_Problem 1/hsqc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./40_Expert/10_Problem 1/noesy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./40_Expert/10_Problem 1/tocsy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}

@@ -71,6 +71,26 @@
         "idCodeHash": "578738fddc996db027af6b69bd852758",
         "file": "./30_Advanced/30_Problem 3/index.json",
         "title": "Problem 3"
+      },
+      {
+        "id": "jei0CcEq2nlmbh7I4Umg6cGXnJg=",
+        "mf": "C15H21N3O2",
+        "idCodeHash": "6cac499b4c084ed617564f05cec90ae5",
+        "file": "./30_Advanced/40_Problem 4/index.json",
+        "title": "Problem 4"
+      }
+    ]
+  },
+  {
+    "groupName": "Expert",
+    "folderName": "40_Expert",
+    "children": [
+      {
+        "id": "cksyqzpjJlDUEHK2skQ0+ApycBQ=",
+        "mf": "C32H44O8",
+        "idCodeHash": "d6a3f055e3bf5231e0a8d17c6186ea03",
+        "file": "./40_Expert/10_Problem 1/index.json",
+        "title": "Problem 1"
       }
     ]
   }
