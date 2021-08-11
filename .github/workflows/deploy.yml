@@ -20,7 +20,7 @@ jobs:
           nmrium deleteJSONs
           nmrium createExercisesTOC
           nmrium deleteStructures
-          nmrium appendLinks --baseURL "https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc="
+          nmrium appendLinks --baseURL "https://www.nmrium.org/teaching#?toc="
           git status
           git remote -v
       - name: push to gh-pages
