@@ -1,7 +1,5 @@
-Please check the userguide to create your own series of exercises:
+# JGU Mainz Natural Product NMR
 
-[https://docs.nmrium.org/for-developers/teaching](https://docs.nmrium.org/for-developers/teaching)
-
-This text may be replaced by the description of the exercise.
+This is a collection of natural product NMR data (1D and 2D) at different difficulty levels for training purposes.
 
 <-- LINKS -->
