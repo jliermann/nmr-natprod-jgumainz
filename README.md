@@ -10,3 +10,4 @@ Links to series
 
 * [Easy](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-natprod-jgumainz/toc_10_Easy.json)
 * [Intermediate](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-natprod-jgumainz/toc_20_Intermediate.json)
+* [Advanced](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-natprod-jgumainz/toc_30_Advanced.json)
